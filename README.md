@@ -13,11 +13,14 @@ This Python project tries to emulate a real life scenario inside a working envir
 
 ## Folder Structure
 project_name/
+
     data/
         raw_data/
         sales_data/
+
     src/
         .py files
+    
     tests/
         leftover test file
     
