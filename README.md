@@ -16,8 +16,9 @@ project_name/
 
     data/
         raw_data/
+            .xlsx file
         sales_data/
-
+            .xlsx file
     src/
         .py files
     
